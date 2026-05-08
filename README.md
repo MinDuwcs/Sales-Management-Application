@@ -193,9 +193,9 @@ Sơ đồ ERD đầy đủ tại [`docs/Phan_Mem_Ban_Nuoc.drawio`](docs/Phan_Mem
 🐙 https://github.com/MinDuwcs
 
 **Hà Tuấn Duy**
-📧 email@gmail.com
+📧 tuandzuy1812@gmial.com
 🔗 https://linkedin.com/in/...
-🐙 https://github.com/TEN_GITHUB
+🐙 https://github.com/duyditrongmua
 
 **Nguyễn Hoàng Long**
 📧 email@gmail.com
