@@ -181,26 +181,33 @@ Sơ đồ ERD đầy đủ tại [`docs/Phan_Mem_Ban_Nuoc.drawio`](docs/Phan_Mem
 ---
 
 ## 👤 Tác giả
+<table>
+  <tr>
+    <td>Lê Phước Thành</td>
+    <td>📧 email@gmail.com</td>
+    <td>🔗 <a href="https://linkedin.com/in/">LinkedIn</a></td>
+    <td>🐙 <a href="https://github.com/TEN_GITHUB">GitHub</a></td>
+  </tr>
+  <tr>
+    <td>Đường Minh Đức</td>
+    <td>📧 duongmd.work@gmail.com</td>
+    <td>🔗 <a href="https://www.linkedin.com/in/minhduwcs1337">LinkedIn</a></td>
+    <td>🐙 <a href="https://github.com/MinDuwcs">GitHub</a></td>
+  </tr>
+  <tr>
+    <td>Hà Tuấn Duy</td>
+    <td>📧 tuandzuy1812@gmail.com</td>
+    <td>🔗 <a href="https://linkedin.com/in/">LinkedIn</a></td>
+    <td>🐙 <a href="https://github.com/duyditrongmua">GitHub</a></td>
+  </tr>
+  <tr>
+    <td>Nguyễn Hoàng Long</td>
+    <td>📧 email@gmail.com</td>
+    <td>🔗 <a href="https://linkedin.com/in/">LinkedIn</a></td>
+    <td>🐙 <a href="https://github.com/TEN_GITHUB">GitHub</a></td>
+  </tr>
+</table>
 
-**Lê Phước Thành**
-📧 email@gmail.com
-🔗 https://linkedin.com/in/...
-🐙 https://github.com/TEN_GITHU
-
-**Đường Minh Đức**
-📧 duongmd.work@gmail.com 
-🔗 www.linkedin.com/in/minhduwcs1337
-🐙 https://github.com/MinDuwcs
-
-**Hà Tuấn Duy**
-📧 tuandzuy1812@gmial.com
-🔗 https://linkedin.com/in/...
-🐙 https://github.com/duyditrongmua
-
-**Nguyễn Hoàng Long**
-📧 email@gmail.com
-🔗 https://linkedin.com/in/...
-🐙 https://github.com/TEN_GITHUB
 ---
 
 <p align="center">Made with ❤️ using Python & PyQt6</p>
