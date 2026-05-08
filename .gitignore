@@ -1,0 +1,51 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# ========================
+# Environment / Credentials – KHÔNG commit file này!
+# ========================
+.env
+*.env
+config.ini
+secrets.py
+
+# ========================
+# Database
+# ========================
+*.db
+*.sqlite
+*.sqlite3
+backup_*.db
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================
+# OS
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Logs
+# ========================
+*.log
+logs/
