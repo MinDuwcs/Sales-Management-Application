@@ -182,11 +182,25 @@ Sơ đồ ERD đầy đủ tại [`docs/Phan_Mem_Ban_Nuoc.drawio`](docs/Phan_Mem
 
 ## 👤 Tác giả
 
-**[Tên của bạn]**  
-📧 [email@example.com]  
-🔗 [LinkedIn Profile]  
-🐙 [GitHub Profile]
+**Lê Phước Thành**
+📧 email@gmail.com
+🔗 https://linkedin.com/in/...
+🐙 https://github.com/TEN_GITHU
 
+**Đường Minh Đức**
+📧 duongmd.work@gmail.com 
+🔗 www.linkedin.com/in/minhduwcs1337
+🐙 https://github.com/MinDuwcs
+
+**Hà Tuấn Duy**
+📧 email@gmail.com
+🔗 https://linkedin.com/in/...
+🐙 https://github.com/TEN_GITHUB
+
+**Nguyễn Hoàng Long**
+📧 email@gmail.com
+🔗 https://linkedin.com/in/...
+🐙 https://github.com/TEN_GITHUB
 ---
 
 <p align="center">Made with ❤️ using Python & PyQt6</p>
